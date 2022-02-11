@@ -4,6 +4,7 @@ https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud
 https://training.github.com/downloads/ru/github-git-cheat-sheet/
 https://htmlacademy.ru/blog/boost/frontend/first-aid-git
 https://git-scm.com/book/ru/v2
+https://gist.github.com/Dmitriy-8-Kireev/f78388bd5aeb4069b5024d8558555555
 
 Usage:  docker [OPTIONS] COMMAND
 
@@ -105,6 +106,5 @@ docker rm -f $(docker ps -aq) удаление всех контейнеров
 docker rmi -f $(docker ps -aq) удаление образов
 	docker rmi <id_container>
 docker exec -it <id_container> bash зайти в контейнер
-docker run -dit --name <Название контейнера> <название:версия Image> nginx:latest
-docker 
+docker run -dit --name <Название контейнера> <название:версия Image> nginx:latest 
 
