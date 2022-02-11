@@ -1,6 +1,9 @@
 https://devops.org.ru/docker-summary
 https://docs.docker.com/get-started/
-
+https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud
+https://training.github.com/downloads/ru/github-git-cheat-sheet/
+https://htmlacademy.ru/blog/boost/frontend/first-aid-git
+https://git-scm.com/book/ru/v2
 
 Usage:  docker [OPTIONS] COMMAND
 
